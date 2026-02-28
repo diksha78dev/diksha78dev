@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Engineer in the making 🚀 | 3rd-Year B.Tech Computer Engineering Student</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Diksha78-bot&label=Profile%20views&color=0e75b6&style=flat" alt="Diksha78-bot" /> 
+  <img src="https://komarev.com/ghpvc/?username=diksha78dev&label=Profile%20views&color=0e75b6&style=flat" alt="diksha78dev" /> 
 </p>
 
 ---
@@ -55,12 +55,12 @@
 
 ### 🚀 Projects  
 
-#### 🧮 [YouTube Channel Data Dashboard](https://github.com/Diksha78-bot)
+#### 🧮 [YouTube Channel Data Dashboard](https://github.com/diksha78dev)
 - Built with **Python**, **Streamlit**, and **YouTube API**
 - Visualizes channel metrics with **Plotly**, **CSV export**, and **word cloud**
 - Helps content creators analyze video performance efficiently
 
-#### 🚗 [RentOrbit – Car Rental Web Application](https://diksha78-bot.github.io/contact)
+#### 🚗 [RentOrbit – Car Rental Web Application](https://diksha78dev.github.io/contact)
 - Full-stack project using **TypeScript**, **Node.js**, **MongoDB**
 - Features **secure authentication**, **booking system**, and **responsive UI**
 - Built with clean, modular architecture for scalability
@@ -90,11 +90,11 @@
 ### 📊 GitHub Stats  
 <div align="center">
 
-![Diksha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Diksha78-bot&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Diksha78-bot&layout=compact&theme=tokyonight)
+![Diksha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=diksha78dev&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diksha78dev&layout=compact&theme=tokyonight)
 
 <!-- Force refresh and fallback protection -->
-![GitHub Streak](https://streak-stats.demolab.com?user=Diksha78-bot&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&fire=FF9A00&ring=70A5FD&currStreakNum=F6E05E&sideLabels=70A5FD&currStreakLabel=F6E05E&stroke=70A5FD&v=2)
+![GitHub Streak](https://streak-stats.demolab.com?user=diksha78dev&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&fire=FF9A00&ring=70A5FD&currStreakNum=F6E05E&sideLabels=70A5FD&currStreakLabel=F6E05E&stroke=70A5FD&v=2)
 
 </div>
 
@@ -105,7 +105,7 @@
 ### 🌐 Connect with Me  
 <p align="left">
 <a href="https://linkedin.com/in/diksha-dabhole-939647299" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://github.com/Diksha78-bot" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
+<a href="https://github.com/diksha78dev" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
 <a href="mailto:dikshadabhole786@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 <a href="https://leetcode.com/u/dikshadabhole78/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white" /></a>
 <a href="https://www.geeksforgeeks.org/user/dikshada5bpj/" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-darkgreen?logo=geeksforgeeks&logoColor=white" /></a>
