@@ -104,7 +104,7 @@
 
 ### 🌐 Connect with Me  
 <p align="left">
-<a href="[https://linkedin.com/in/diksha-dabhole-939647299](https://www.linkedin.com/in/diksha-dabhole-9394a7299/)" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://www.linkedin.com/in/diksha-dabhole-9394a7299/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="https://github.com/diksha78dev" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
 <a href="mailto:dikshadabhole786@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 <a href="https://leetcode.com/u/dikshadabhole78/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white" /></a>
