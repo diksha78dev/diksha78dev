@@ -1,301 +1,338 @@
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    ANIMATED HEADER                         -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ════════════════════════════════════════════════════════════════
+     diksha78dev · profile README
+     Numbers last synced: 10 Nov 2026 (GitHub, LeetCode, diksha78dev.xyz)
+     Badges marked "live" update themselves; update the rest by hand.
+     ════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Diksha%20Dabhole&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20%26%20AI%20Engineer%20%E2%80%82%E2%80%A2%E2%80%82%E2%98%95%20Spring%20Boot%20%E2%80%82%E2%80%A2%E2%80%82%F0%9F%94%97%20LangChain%20%E2%80%82%E2%80%A2%E2%80%82%E2%9A%9B%EF%B8%8F%20React&descAlignY=62&descSize=16&descColor=6DB33F"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:0EA5E9,100:6DB33F&height=230&section=header&text=Diksha%20Dabhole&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%2B%20AI%20Engineer%20%E2%80%A2%20I%20ship%20products%2C%20not%20just%20features&descAlignY=60&descSize=17"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=1000&color=6DB33F&center=true&vCenter=true&multiline=false&random=false&width=650&lines=%24+git+commit+-m+%22shipping+not+just+learning%22+%F0%9F%9A%80;%40SpringBootApplication+%E2%98%95+%7C+%40Autowired+LangChain+%F0%9F%94%97;350%2B+PRs+merged+%7C+NSoC+Rank+%2318+%2F+5000%2B+%F0%9F%8F%86;Building+real+products+for+real+India+%F0%9F%87%AE%F0%9F%87%B3;Open+Source+Contributor+%26+Mentor+%F0%9F%A4%9D" alt="Typing SVG"/>
+<a href="https://diksha78dev.xyz">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1100&color=0EA5E9&center=true&vCenter=true&width=680&lines=React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Spring+Boot+%C2%B7+Gemini;815%2B+pull+requests+merged+across+40%2B+codebases;844+LeetCode+problems+%C2%B7+165+Hard+%C2%B7+500-day+streak+badge;SSoC+%2726+Global+Rank+%234+%C2%B7+NSoC+%2726+Rank+%2318;Building+real+products+for+real+India+%F0%9F%87%AE%F0%9F%87%B3;Ships+%3E+Showcases+%F0%9F%9A%80" alt="Typing intro"/>
+</a>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-diksha78dev.xyz-6DB33F?style=for-the-badge&logoColor=white)](https://diksha78dev.xyz)
+[![Portfolio](https://img.shields.io/badge/diksha78dev.xyz-0F172A?style=for-the-badge&logo=googlechrome&logoColor=0EA5E9)](https://diksha78dev.xyz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dikshadabhole78)
-[![LeetCode](https://img.shields.io/badge/LeetCode_400%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/dikshadabhole78/)
-[![GFG](https://img.shields.io/badge/GFG-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/profile/dikshadabhole78)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dikshadabhole78@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-844_solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/dikshadabhole78/)
+[![GFG](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/profile/dikshadabhole78)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dikshadabhole78@gmail.com)
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=diksha78dev&color=6DB33F&style=flat-square&label=👁️+Profile+Views)&nbsp;
-![GitHub followers](https://img.shields.io/github/followers/diksha78dev?style=flat-square&color=6DB33F&label=Followers)&nbsp;
-![GitHub stars](https://img.shields.io/github/stars/diksha78dev?style=flat-square&color=6DB33F&label=Stars)
+![Open to work](https://img.shields.io/badge/%F0%9F%9F%A2_Open_to-SDE_%2F_Full--Stack_roles_%C2%B7_2027-6DB33F?style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=diksha78dev&color=4F46E5&style=flat-square&label=profile+views)
+![Followers](https://img.shields.io/github/followers/diksha78dev?style=flat-square&color=0EA5E9&label=followers)
 
 </div>
 
 <br/>
 
-<!-- ░░░░░░░░░░░░░░░░ GLOWING DIVIDER ░░░░░░░░░░░░░░░░ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<!-- ══════════════ SCOREBOARD ══════════════ -->
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="150"><h2>815+</h2><sub>pull requests merged</sub></td>
+    <td align="center" width="150"><h2>844</h2><sub>LeetCode solved<br/>(165 Hard)</sub></td>
+    <td align="center" width="150"><h2>#4</h2><sub>global rank<br/>SSoC '26</sub></td>
+    <td align="center" width="150"><h2>#18</h2><sub>of 5,000+<br/>NSoC '26</sub></td>
+    <td align="center" width="150"><h2>8.25</h2><sub>CGPA<br/>B.Tech CSE '27</sub></td>
+  </tr>
+</table>
+</div>
 
-## 🧬 `whoami`
+<br/>
 
-```java
-╔══════════════════════════════════════════════════════════════════╗
-║  $ cat DikshaDabhole.java                                        ║
-╠══════════════════════════════════════════════════════════════════╣
-║                                                                  ║
-║  @SpringBootApplication                                          ║
-║  public class DikshaDabhole implements Engineer, Mentor {        ║
-║                                                                  ║
-║    String  name     = "Diksha Dabhole";                          ║
-║    String  college  = "RIT Islampur, Maharashtra (CSE 2027)";    ║
-║    double  cgpa     = 8.25;   // Sem 6 SGPA: 8.63               ║
-║    int     dsa      = 400;    // LeetCode + GFG problems         ║
-║    int     prs      = 350;    // PRs merged across 10+ repos     ║
-║    int     nsocRank = 18;     // out of 5000+ participants       ║
-║    boolean openToWork = true; // 🟢 Actively looking             ║
-║                                                                  ║
-║    String[] currentlyLearning = {                                ║
-║      "System Design", "Advanced DSA", "Agentic AI"              ║
-║    };                                                            ║
-║                                                                  ║
-║    String superpower = "Turning chai ☕ + code into products     ║
-║                         that real people in India 🇮🇳 use";      ║
-║  }                                                               ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
+## `01` &nbsp;whoami
+
+```ts
+// diksha.config.ts
+export const diksha = {
+  role:       "Full-Stack + AI Engineer",
+  college:    "Rajarambapu Institute of Technology, Islampur · B.Tech CSE · 2027",
+  cgpa:       8.25,                                  // Sem 6 SGPA: 8.63
+
+  stack: {
+    frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+    backend:  ["Spring Boot", "Spring Security", "Node.js / Express", "FastAPI"],
+    data:     ["PostgreSQL", "MySQL", "MongoDB", "Firebase"],
+    ai:       ["Gemini API (text + vision)", "Vertex AI", "PyTorch"],
+    ship:     ["Docker", "GitHub Actions", "AWS", "Vercel", "Render"],
+  },
+
+  nowBuilding: ["BahiSaathi AI dashboard", "Dental caries detection (PyTorch U-Net) · capstone"],
+  learning:    ["React Native (Expo)", "System Design", "Agentic AI"],
+  alsoSpeaks:  ["English", "Hindi", "Marathi", "German (A1)"],
+
+  openTo: "SDE / Full-Stack roles · 2027",
+  motto:  "Ships > Showcases",
+} as const;
 ```
 
 <details>
-<summary><b>🔎 The real story behind the code (click me)</b></summary>
+<summary><b>📖 The story behind the numbers (click to open)</b></summary>
 <br/>
 
-I didn't start with big plans. I just opened my first issue, submitted a PR, got it merged — and got completely hooked.
+I didn't start with big plans. I opened one issue, sent one PR, got it merged, and got hooked. That one PR has turned into **815+**.
 
-That one PR became **350+**. Those side projects became things **real people use**:
-- 🧾 A kirana owner's nephew told me BahiSaathi AI saved his chacha 2 hours a day
-- 🌱 EcoStep ranked **#339 out of 34,673** at Hack2Skill — top 1%
-- 🗂️ FamilyVault came from watching my family scramble to find documents during emergencies
+My side projects started the same way, from problems I saw around me:
 
-I'm also a **GSSoC '26 mentor** while still being a contributor — because I believe the fastest way to grow is to teach. I run sessions at **Oyster Kode Club**, hold a **Goethe-Zertifikat A1 in German** 🇩🇪, and I'm always building something new.
+- 🗂️ **FamilyVault** started when I watched my family lose Aadhaar cards and land papers in WhatsApp groups.
+- 🧾 **BahiSaathi AI** turns photos of a kirana shop's handwritten *bahi* (ledger) into clean digital records. A shop owner's nephew told me it saves his uncle two hours a day.
+- 🗣️ **Samadhan AI** lets people ask questions by voice in Hindi, Marathi, or English, even on a weak connection.
+- 🌱 **EcoStep** ranked **#339 of 34,673** at Hack2Skill (top 1%).
 
-> *"Ships > Showcases."*
+I'm a **GSSoC '26 mentor** while still contributing, because teaching is the fastest way I know to learn. I review PRs on **MergeShip**, lead feedback and strategy at **Oyster Kode Club**, and I'm always building something new.
 
 </details>
 
 <br/>
 
-<!-- ░░░░░░░░░░░░░░░░ GLOWING DIVIDER ░░░░░░░░░░░░░░░░ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%"/>
-
-## ⚡ GitHub Stats
+## `02` &nbsp;Stack I've actually shipped with
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=diksha78dev&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6DB33F&icon_color=6DB33F&text_color=c9d1d9"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diksha78dev&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&title_color=6DB33F&text_color=c9d1d9&hide=perl,html,css,shell"/>
-
-<br/>
-
-<img width="68%" src="https://streak-stats.demolab.com?user=diksha78dev&theme=dark&hide_border=true&background=0d1117&stroke=6DB33F&ring=6DB33F&fire=F59E0B&currStreakLabel=6DB33F&dates=5B6E8A&sideLabels=c9d1d9"/>
-
-<br/><br/>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=diksha78dev&bg_color=0d1117&color=6DB33F&line=6DB33F&point=ffffff&area=true&area_color=6DB33F&hide_border=true&radius=6)](https://github.com/diksha78dev)
+<table>
+  <tr>
+    <td align="right"><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css&theme=dark&perline=7" height="40"/></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,py,fastapi&theme=dark&perline=7" height="40"/></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Data</b></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase&theme=dark&perline=7" height="40"/></td>
+  </tr>
+  <tr>
+    <td align="right"><b>AI</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" height="40"/>
+      <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" height="28"/>
+      <img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" height="28"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>Ship</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=docker,aws,gcp,githubactions,vercel,git,linux&theme=dark&perline=7" height="40"/>
+      <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" height="28"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>Test &amp; tools</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=vitest,postman,idea,vscode&theme=dark&perline=7" height="40"/>
+      <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" height="28"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 <br/>
 
-<!-- ░░░░░░░░░░░░░░░░ GLOWING DIVIDER ░░░░░░░░░░░░░░░░ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+## `03` &nbsp;Things I've shipped
 
-## 🐍 Contributions Snake
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🗂️ <a href="https://github.com/diksha78dev/FamilyVault">FamilyVault</a></h3>
+      <sub><b>Full-stack document vault for Indian families</b></sub>
+      <p>Families join with one code and share a searchable vault for Aadhaar, land, and medical papers. React client with protected routes; Spring Boot + JPA + MySQL API with JWT, Spring Security, and Cloudinary storage; Dockerized.</p>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      <br/><br/>
+      🏆 Top 100 / 1,000+ teams · EliteHer Hackathon<br/>
+      <a href="https://family-vault-taupe.vercel.app/"><b>Live ↗</b></a> · <a href="https://github.com/diksha78dev/FamilyVault">Code</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏟️ <a href="https://github.com/diksha78dev/stadium-os-ai">StadiumOS AI</a></h3>
+      <sub><b>GenAI operations platform for stadiums</b></sub>
+      <p>Seven Gemini modules (crowd prediction, route optimization, incident analysis, multilingual help), each with its own API route and prompt, returning confidence-scored recommendations instead of chat.</p>
+      <img src="https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white"/>
+      <br/><br/>
+      ✅ 71 tests · Playwright E2E · CI: lint, typecheck, test, build<br/>
+      <a href="https://github.com/diksha78dev/stadium-os-ai"><b>Code ↗</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧾 <a href="https://github.com/diksha78dev/BahiSaathi">BahiSaathi AI</a></h3>
+      <sub><b>Ledger digitization for kirana stores</b></sub>
+      <p>Gemini Vision reads photos of handwritten shop ledgers and turns them into structured entries. FastAPI routes secured with JWT, over a four-table PostgreSQL schema.</p>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Gemini_Vision-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
+      <br/><br/>
+      🚧 Dashboard and deployment in progress<br/>
+      <a href="https://github.com/diksha78dev/BahiSaathi"><b>Code ↗</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🗣️ <a href="https://github.com/diksha78dev/Samadhan-AI">Samadhan AI</a></h3>
+      <sub><b>Voice-first assistant for rural India</b></sub>
+      <p>Speak in Hindi, Marathi, or English. React + Web Speech API on the client, Gemini answering through Spring Boot APIs, and an IndexedDB cache so it still works on weak connections.</p>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
+      <br/><br/>
+      📶 Offline-friendly · 3 languages<br/>
+      <a href="https://github.com/diksha78dev/Samadhan-AI"><b>Code ↗</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌱 <a href="https://github.com/diksha78dev/ecostep">EcoStep</a></h3>
+      <sub><b>Carbon-footprint coach for India</b></sub>
+      <p>Personal reduction plans based on diet, transport, and energy use, generated with Gemini. Plain JavaScript, tested with Jest.</p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white"/>
+      <br/><br/>
+      🏆 #339 / 34,673 · Hack2Skill (top 1%) · AI score 95.99<br/>
+      <a href="https://diksha78dev.github.io/ecostep/"><b>Live ↗</b></a> · <a href="https://github.com/diksha78dev/ecostep">Code</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚗 <a href="https://github.com/diksha78dev/RentOrbits">RentOrbits</a></h3>
+      <sub><b>Open-source car rental platform · I maintain it</b></sub>
+      <p>React + TypeScript + Tailwind with Firebase Auth and Firestore. I review and merge work from outside contributors.</p>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+      <br/><br/>
+      <img src="https://img.shields.io/github/stars/diksha78dev/RentOrbits?style=flat-square&color=F59E0B&label=stars"/>
+      <img src="https://img.shields.io/github/forks/diksha78dev/RentOrbits?style=flat-square&color=0EA5E9&label=forks"/>
+      <br/>
+      <a href="https://diksha78dev.github.io/RentOrbits/"><b>Live ↗</b></a> · <a href="https://github.com/diksha78dev/RentOrbits">Code</a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## `04` &nbsp;Open source journey
+
+```mermaid
+timeline
+    title 815+ merged PRs and counting
+    2025 : GSSoC '25 : WOCS '25 : Hacktoberfest '25
+         : ECWoC '25 · Rank 24 of 5,000+ (won the diksha78dev.xyz domain)
+    2026 : JWOC '26 : OSGC '26
+         : NSoC '26 · Rank 18 of 5,000+ · 110+ PRs
+         : SSoC '26 · Global Rank 4 · 10,000+ points · 300+ PRs
+         : GSSoC '26 · Contributor and Mentor
+         : MergeShip · PR Reviewer
+```
 
 <div align="center">
+
+**Where my PRs landed most**
+
+| Repository | Merged PRs | |
+|---|:--:|---|
+| [Open-Source-Contribution-Atelier](https://github.com/nandinigoyaldev/Open-Source-Contribution-Atelier) | **197** | 🥇 #1 top contributor |
+| [Algo-Infinity-Verse](https://github.com/Eshajha19/Algo-Infinity-Verse) | **137** | |
+| [Vector-social-media](https://github.com/Shivayan09/Vector-social-media) | **69** | |
+| [Legalassist-AI](https://github.com/AseemPrasad/Legalassist-AI) | **42** | |
+| [SOUL_SENSE_EXAM](https://github.com/nupurmadaan04/SOUL_SENSE_EXAM) | **39** | |
+| [MergeShip](https://github.com/Coder-s-OG-s/MergeShip) | **31** | 🔍 also a PR reviewer |
+
+<sub>Plus 35+ other codebases. Counts as of Nov 2026.</sub>
+
+</div>
+
+<br/>
+
+## `05` &nbsp;Wins
+
+<div align="center">
+
+| | Achievement | Result |
+|:--:|---|:--:|
+| 🌟 | **SSoC 2026** · Certificate of Excellence | Global Rank **#4** |
+| 🥇 | **NSoC 2026** · Certificate of Excellence | Rank **#18 / 5,000+** |
+| 🌍 | **ECWoC 2025** · Top contributor | Rank **#24 / 5,000+** |
+| 🌱 | **Hack2Skill India Runs** · EcoStep | Rank **#339 / 34,673** |
+| 💜 | **EliteHer Hackathon 2025** · FamilyVault | Top **100 / 1,000+** |
+| 🎓 | **GSSoC 2026** · Contributor and first-time Mentor | Mentor |
+| 🔥 | **LeetCode** · 500 Days badge · **GFG** #GeekStreak60 × NPCI | Daily habit |
+| 🗣️ | **Oyster Kode Club** · Head of Feedback & Future Strategies | **100+** students taught |
+
+</div>
+
+<br/>
+
+## `06` &nbsp;Problem solving
+
+<div align="center">
+
+<a href="https://leetcode.com/u/dikshadabhole78/"><img src="https://leetcard.jacoblin.cool/dikshadabhole78?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=10" alt="LeetCode stats (live)"/></a>
+
+**844 solved** · 232 Easy · 447 Medium · **165 Hard** · Contest rating **1608** (top 24%)
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://hackerrank.com/profile/dikshadabhole78)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://codechef.com/users/diksha_d78)
+[![GFG](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/profile/dikshadabhole78)
+[![Unstop](https://img.shields.io/badge/Unstop-3949AB?style=flat-square)](https://unstop.com/u/dikshdab5235)
+
+</div>
+
+<br/>
+
+## `07` &nbsp;GitHub activity
+
+<div align="center">
+
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diksha78dev&theme=github_dark" alt="Profile details (live)"/>
+
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=diksha78dev&theme=github_dark" alt="Repos per language (live)"/>
+<img height="170" src="https://streak-stats.demolab.com?user=diksha78dev&theme=dark&hide_border=true&background=0D1117&ring=0EA5E9&fire=6DB33F&currStreakLabel=0EA5E9" alt="Streak (live)"/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diksha78dev/diksha78dev/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/diksha78dev/diksha78dev/output/github-contribution-grid-snake.svg"/>
-  <img alt="snake" src="https://raw.githubusercontent.com/diksha78dev/diksha78dev/output/github-contribution-grid-snake-dark.svg"/>
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/diksha78dev/diksha78dev/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
+
 </div>
 
 <br/>
 
-<!-- ░░░░░░░░░░░░░░░░ GLOWING DIVIDER ░░░░░░░░░░░░░░░░ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
-
-## 🛠️ Tech Stack
+## `08` &nbsp;Certifications
 
 <div align="center">
 
-**☕ Backend & Core**<br/>
-<img src="https://skillicons.dev/icons?i=java,spring,py,fastapi,nodejs&theme=dark"/>
-
-**🤖 AI / ML**<br/>
-<img src="https://skillicons.dev/icons?i=tensorflow&theme=dark"/>
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
-![GPT-4o](https://img.shields.io/badge/GPT--4o_Vision-412991?style=flat-square&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_API-CC785C?style=flat-square)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-
-**⚛️ Frontend**<br/>
-<img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,html,css&theme=dark"/>
-
-**🗄️ Databases & Cloud**<br/>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase,vercel,railway&theme=dark"/>
-
-**🔧 Tools**<br/>
-<img src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode,idea&theme=dark"/>
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-Gen_AI_Exchange_(Vertex_AI,_RAG)-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Cloud_Virtual_Internship_·_10_wk-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-Agentic_AI_+_CSA-62D84E?style=for-the-badge&logo=servicenow&logoColor=white)
+![NASSCOM](https://img.shields.io/badge/NASSCOM_FutureSkills-Gold_(78%25)-FF6B35?style=for-the-badge)
+![Goethe](https://img.shields.io/badge/Goethe--Institut-German_A1-000000?style=for-the-badge)
 
 </div>
 
 <br/>
 
-<!-- ░░░░░░░░░░░░░░░░ GLOWING DIVIDER ░░░░░░░░░░░░░░░░ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
-
-## 🚀 Featured Projects
+## `09` &nbsp;Let's build something
 
 <div align="center">
 
-<a href="https://family-vault-taupe.vercel.app/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=diksha78dev&repo=FamilyVault&theme=dark&hide_border=true&bg_color=0d1117&title_color=6DB33F&icon_color=6DB33F&text_color=c9d1d9&description_lines_count=2"/>
-</a>
-<a href="https://github.com/diksha78dev/BahiSaathi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=diksha78dev&repo=BahiSaathi&theme=dark&hide_border=true&bg_color=0d1117&title_color=6DB33F&icon_color=6DB33F&text_color=c9d1d9&description_lines_count=2"/>
-</a>
+I'm looking for **SDE / full-stack roles (2027)**, and I'm always up for open-source collaborations.<br/>
+Ask me about Spring Boot, Next.js, Gemini, or how to get your first PR merged.
 
-<br/><br/>
+<br/>
 
-<a href="https://diksha78dev.github.io/ecostep/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=diksha78dev&repo=ecostep&theme=dark&hide_border=true&bg_color=0d1117&title_color=6DB33F&icon_color=6DB33F&text_color=c9d1d9&description_lines_count=2"/>
-</a>
-<a href="https://diksha78dev.github.io/RentOrbits/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=diksha78dev&repo=RentOrbits&theme=dark&hide_border=true&bg_color=0d1117&title_color=6DB33F&icon_color=6DB33F&text_color=c9d1d9&description_lines_count=2"/>
-</a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-diksha78dev.xyz-0F172A?style=for-the-badge&logo=googlechrome&logoColor=0EA5E9)](https://diksha78dev.xyz)
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dikshadabhole78)
+[![Email](https://img.shields.io/badge/Say_hi-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dikshadabhole78@gmail.com)
 
 </div>
 
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,50:0EA5E9,100:4F46E5&height=120&section=footer"/>
 
-> 💡 **EcoStep** → Rank **#339 / 34,673** at Hack2Skill · AI Score **95.99 / 100**
-> 💡 **FamilyVault** → **Top 100 / 1000+** teams at EliteHer Hackathon
-
-<br/>
-
-<!-- ░░░░░░░░░░░░░░░░ GLOWING DIVIDER ░░░░░░░░░░░░░░░░ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-## 🏆 Open Source Journey
-
-<div align="center">
-
-```
-         ┌─────── My Open Source Timeline ──────────────────────────┐
-         │                                                           │
-  2025   │  🟢 GSSoC'25  →  🟠 WOCS'25  →  🔴 Hacktoberfest'25    │
-         │                                    ↓                     │
-         │                              🔵 ECWoC'25                 │
-         │                              Rank #24 / 5000+  🌍        │
-         │                                    ↓                     │
-  2026   │  🟣 JWOC'26  →  🟡 OSGC'26  →  💚 GSSoC'26              │
-         │                                Contributor + Mentor 🎓   │
-         │                                    ↓                     │
-         │                              🏆 NSoC'26                  │
-         │                              Rank #18 / 5000+  🥇        │
-         │                                                           │
-         │                    350+ PRs · 10+ Repos · Still going   │
-         └───────────────────────────────────────────────────────────┘
-```
-
-</div>
-
-<div align="center">
-
-| 🏅 | Achievement | Numbers |
-|:--:|------------|:-------:|
-| 🥇 | **NSoC 2026** — Certificate of Excellence | Rank **#18 / 5000+** |
-| 🌍 | **ECWoC 2025** — Top Contributor | Rank **#24 / 5000+** |
-| 🏆 | **Hack2Skill** EcoStep — India Runs Challenge 3 | Rank **#339 / 34,673** |
-| 💜 | **EliteHer Hackathon** — FamilyVault | Top **100 / 1000+** |
-| 🤝 | **GSSoC '26** — Contributor + First-Time Mentor | 5000+ participants |
-| 📦 | **PRs merged** across GSSoC · JWOC · ECWoC · OSGC · Hacktoberfest | **350+** |
-| 🎓 | **Oyster Kode Club** — Head of Feedback & Future Strategies | **100+** students |
-
-</div>
-
-<br/>
-
-<!-- ░░░░░░░░░░░░░░░░ GLOWING DIVIDER ░░░░░░░░░░░░░░░░ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%"/>
-
-## 📈 LeetCode Stats
-
-<div align="center">
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/dikshadabhole78?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&bg=0d1117&border_radius=8)](https://leetcode.com/u/dikshadabhole78/)
-
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/profile/dikshadabhole78)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/diksha_d78)
-[![Unstop](https://img.shields.io/badge/Unstop-Profile-3949AB?style=for-the-badge)](https://unstop.com/u/dikshdab5235)
-
-</div>
-
-<br/>
-
-<!-- ░░░░░░░░░░░░░░░░ GLOWING DIVIDER ░░░░░░░░░░░░░░░░ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
-
-## 🏅 Badges & Certifications
-
-<div align="center">
-
-![NSoC](https://img.shields.io/badge/🌿_NSoC_2026-Certificate_of_Excellence_·_Rank_%2318-6DB33F?style=for-the-badge)
-![NASSCOM](https://img.shields.io/badge/🏛️_NASSCOM-FutureSkills_Prime_Gold_78%25-FF6B35?style=for-the-badge)
-![ServiceNow](https://img.shields.io/badge/⚙️_ServiceNow-Agentic_AI_+_CSA-00A1E0?style=for-the-badge)
-![GCloud](https://img.shields.io/badge/☁️_Google_Cloud-Gen_AI_Exchange-4285F4?style=for-the-badge)
-![AWS](https://img.shields.io/badge/☁️_AWS-Cloud_Internship_10wk-232F3E?style=for-the-badge)
-![Goethe](https://img.shields.io/badge/🇩🇪_Goethe_Institut-Zertifikat_A1-black?style=for-the-badge)
-
-<br/>
-
-<!-- ── OPEN SOURCE BADGES ── -->
-![GSSoC](https://img.shields.io/badge/GSSoC_'26-Contributor_+_Mentor-orange?style=flat-square&logo=github)
-![NSoC](https://img.shields.io/badge/NSoC_'26-Top_20_%7C_%2318-6DB33F?style=flat-square)
-![ECWoC](https://img.shields.io/badge/ECWoC_'25-Rank_%2324_%2F_5000%2B-blue?style=flat-square)
-![JWOC](https://img.shields.io/badge/JWOC_'26-Contributor-yellow?style=flat-square)
-![OSGC](https://img.shields.io/badge/OSGC_'26-Contributor-purple?style=flat-square)
-![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest_'25-Contributor-FF6C37?style=flat-square&logo=hacktoberfest)
-![WOCS](https://img.shields.io/badge/WOCS_'25-Contributor-pink?style=flat-square)
-
-<br/>
-
-<!-- ── WHEN YOU COMPILE YOUR 40-50 BADGES PDF ──
-     Share the images here and I'll replace this section
-     with a proper visual badge wall grid               -->
-*🏅 40-50 open source badges being compiled — full wall coming soon!*
-
-</div>
-
-<br/>
-
-<!-- ░░░░░░░░░░░░░░░░ GLOWING DIVIDER ░░░░░░░░░░░░░░░░ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-*Always up for open source collabs, interesting projects, or just talking Spring Boot at 2am.*
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/🌐_diksha78dev.xyz-000?style=for-the-badge&logo=vercel&logoColor=6DB33F)](https://diksha78dev.xyz)
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dikshadabhole78)
-[![Email](https://img.shields.io/badge/Say_Hi!-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dikshadabhole78@gmail.com)
-[![GitHub](https://img.shields.io/badge/Follow_me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diksha78dev)
-
-</div>
-
-<br/>
-
-<!-- FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=130&section=footer&animation=twinkling"/>
-
-<div align="center">
-<sub>☕ built with Spring Boot, open source spirit, and way too much chai &nbsp;|&nbsp; <a href="https://diksha78dev.xyz">diksha78dev.xyz</a></sub>
-</div>
+<div align="center"><sub>Built from scratch with chai ☕ and too many merged PRs · <a href="https://diksha78dev.xyz">diksha78dev.xyz</a></sub></div>
